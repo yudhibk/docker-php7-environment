@@ -16,21 +16,24 @@ Run Docker (Windows)
 ```bash
   docker-compose up -d
 ```
-<sub>Use "docker compose" for linux</sub>
+<sub> _Use "docker compose" for linux_ </sub>
+
 
 Stop Docker (Windows)
 
 ```bash
   docker-compose down
 ```
-<sub>Use "docker compose" for linux</sub>
+<sub> _Use "docker compose" for linux_ </sub>
+
 
 Open PHP Container Terminal
 
 ```bash
   docker-compose exec php bash 
 ```
-<sub>Use "docker compose" for linux</sub>
+<sub> _Use "docker compose" for linux_ </sub>
+
 
 Copy File ".sql" for restoring
 
