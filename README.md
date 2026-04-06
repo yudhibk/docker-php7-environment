@@ -4,10 +4,11 @@ Setup PHP 7 Environment with docket ^^
 
 ## List Tools
 
-- PHP:7.4-apache ⚙️
-- mysql:8.0
-- phpmyadmin
-- composer
+- **_PHP:7.4-apache_** ⚙️
+- **_mysql:8.0_** 📈
+- **_phpmyadmin_** 📉
+- **_composer_** 📡
+
 ## List Command
 
 Run Docker (Windows)
